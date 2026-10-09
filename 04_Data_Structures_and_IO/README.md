@@ -24,6 +24,9 @@ In this module, you will learn how to store, manipulate, and retrieve complex da
 * **[6. File Input/Output (I/O):](./06_File_IO/)**  
   Persisting data safely using Context Managers (the `with` statement), and parsing both standard text files and structured JSON data.
 
+* **[7. Database Storage: SQL & NoSQL](./07_Database_Storage/)**  
+  Moving from flat files to scalable databases: tabular relational modeling with PostgreSQL (`psycopg`), document-based storage with MongoDB (`pymongo`), parameterized security, and architectural selection.
+
 ---
 
 ## Hands-On Practice Tasks
